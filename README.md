@@ -1,7 +1,7 @@
 # BLADE Dataset
 
 
-The BLADE dataset is a obfuscation resilient system based on Opcode Segments for Android malware detection. The data set comprises of Opcode Segment Document (OSD) of malware and benign samples generated from static analysis approach defined in the paper "BLADE: Robust malware detection against obfuscation in android".
+The BLADE dataset is an obfuscation resilient system based on Opcode Segments for Android malware detection. The data set comprises of Opcode Segment Document (OSD) of malware and benign samples generated from static analysis approach defined in the paper "BLADE: Robust malware detection against obfuscation in android".
 
 The dataset is based on samples collected from various sources and processed into OSD files. 
 
